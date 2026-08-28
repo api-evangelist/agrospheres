@@ -12,6 +12,17 @@ description: 'AgroSpheres is an agricultural biotechnology company based in Char
   facility in Charlottesville. It is a physical agricultural-inputs business and
   publishes no developer program, public API, or machine-readable API artifacts.'
 url: https://raw.githubusercontent.com/api-evangelist/agrospheres/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/62333ec669078315d70a0478/62431435e48d5d211e7df3c4_webclip.png
 x-type: company
 x-source: harvest:secondary-market
